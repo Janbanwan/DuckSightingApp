@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Duck Sighting App!</string>
+    <string-array name="valinnat">
+        <item>Ascending</item>
+        <item>Descending</item>
+    </string-array>
+</resources>
